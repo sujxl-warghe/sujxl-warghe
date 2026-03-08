@@ -41,7 +41,7 @@ I build AI systems that solve actual problems. My approach is grounded in end-to
 
 ### AI / ML
 ![scikit-learn](https://img.shields.io/badge/Machine%20Learning-0f0c29?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![HuggingFace](https://img.shields.io/badge/Transformers%20%26%20NLP-0f0c29?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![HuggingFace](https://img.shields.io/badge/Transformers%20and%20NLP-0f0c29?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 ![LangChain](https://img.shields.io/badge/RAG%20Systems-0f0c29?style=for-the-badge&logo=chainlink&logoColor=7C83FD)
 ![OpenCV](https://img.shields.io/badge/Computer%20Vision-0f0c29?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
 ![DeepFace](https://img.shields.io/badge/Face%20Recognition-0f0c29?style=for-the-badge&logo=ai&logoColor=FC3D21)
