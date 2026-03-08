@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sujal%20Warghe&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Applied%20AI%20%26%20ML%20Developer&descAlignY=58&descSize=18&descColor=a0aec0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Sujal%20Warghe&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Aspiring%20AI%20Engineer%20%7C%20Applied%20AI%20%26%20ML%20Developer&amp;descAlignY=58&amp;descSize=18&amp;descColor=a0aec0" width="100%"/>
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sujalwarghe&style=for-the-badge&color=7C83FD&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=sujxl-warghe&amp;style=for-the-badge&amp;color=7C83FD&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -134,12 +134,12 @@ I believe in **clean structure, honest documentation, and systems that actually 
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sujalwarghe&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=7C83FD&icon_color=7C83FD&text_color=ffffff&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalwarghe&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=7C83FD&text_color=ffffff"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sujxl-warghe&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0f0c29&amp;title_color=7C83FD&amp;icon_color=7C83FD&amp;text_color=ffffff&amp;count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujxl-warghe&amp;layout=compact&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0f0c29&amp;title_color=7C83FD&amp;text_color=ffffff"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalwarghe&theme=midnight-purple&hide_border=true&background=0f0c29&ring=7C83FD&fire=FC3D21&currStreakLabel=7C83FD" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujxl-warghe&amp;theme=midnight-purple&amp;hide_border=true&amp;background=0f0c29&amp;ring=7C83FD&amp;fire=FC3D21&amp;currStreakLabel=7C83FD" alt="GitHub Streak"/>
 
 </div>
 
@@ -149,8 +149,8 @@ I believe in **clean structure, honest documentation, and systems that actually 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/sujalwarghe)
-[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujalwarghe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/sujxl-warghe)
+[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujxl-warghe)
 [![Email](https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sujalwarghe@email.com)
 
 </div>
@@ -163,4 +163,4 @@ I believe in **clean structure, honest documentation, and systems that actually 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" width="100%"/>
