@@ -9,10 +9,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=sujxl-warghe&style=for-the-badge&color=7C83FD&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/sujxl-warghe?style=for-the-badge&color=7C83FD&labelColor=0f0c29&label=FOLLOWERS)
-&nbsp;
-![GitHub User's stars](https://img.shields.io/github/stars/sujxl-warghe?style=for-the-badge&color=FC3D21&labelColor=0f0c29&label=TOTAL+STARS)
 
 </div>
 
